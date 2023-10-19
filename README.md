@@ -1,4 +1,4 @@
-Generative AI Art Project
+# Generative AI Art Project
 
 Welcome to the Generative AI Art Project! In this project, I utilized a Variational Autoencoder (VAE) model to generate and modify paintings in the style of the renowned artist Edvard Munch. This repository demonstrates the power of generative AI in art creation.
 Table of Contents
@@ -12,7 +12,7 @@ Table of Contents
     Contributing
     License
 
-Introduction
+## Introduction
 
 Generative AI has opened up exciting possibilities in the realm of art. In this project, I've harnessed the capabilities of a VAE to create and modify paintings inspired by Edvard Munch. Edvard Munch is famous for his emotionally charged works, and I aimed to capture the essence of his style in our generated images.
 Dataset
