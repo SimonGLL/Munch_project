@@ -32,7 +32,7 @@ If you're interested in experimenting with this project or exploring the generat
 
     Clone the Repository: Start by cloning this repository to your local machine.
 
-    Download dataset on Kaggle : [Link](https://www.kaggle.com/datasets/isaienkov/edvard-munch-paintings)
+    Download dataset on Kaggle : https://www.kaggle.com/datasets/isaienkov/edvard-munch-paintings
 
     Install Dependencies: Ensure you have the necessary dependencies and libraries installed.
 
