@@ -32,9 +32,9 @@ If you're interested in experimenting with this project or exploring the generat
 
     Clone the Repository: Start by cloning this repository to your local machine.
 
-    Download dataset on Kaggle : [(https://www.kaggle.com/datasets/isaienkov/edvard-munch-paintings)]
+    Download dataset on Kaggle : [Link](https://www.kaggle.com/datasets/isaienkov/edvard-munch-paintings)
 
-    Install Dependencies: Ensure you have the necessary dependencies and libraries installed. You can find the requirements in the project's requirements.txt file.
+    Install Dependencies: Ensure you have the necessary dependencies and libraries installed.
 
     Training the Model: If you wish to retrain the VAE model, follow the instructions in the project's documentation.
 
@@ -45,7 +45,8 @@ Once the model is trained, you can use it to generate and modify images. Instruc
 ## **Results**
 
 The 'Results' section provides a gallery of generated and modified artworks, showcasing the creative potential of the VAE model in the style of Edvard Munch. Feel free to explore and be inspired by these AI-generated masterpieces.
-Contributing
+
+## **Contributing**
 
 If you're passionate about generative AI in art and would like to contribute to this project, please refer to the 'Contributing' guidelines in the repository. Your contributions are most welcome!
 
